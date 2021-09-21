@@ -3,7 +3,7 @@ import React from 'react';
 function Nav() {
     return (
       <nav>
-          <a href='/'><img src='/images/logo.png' className='home-logo' /></a>
+          <a href='/'><img src='/images/logo.png' className='home-logo' alt="Logo"/></a>
           <ul className='nav'>
               <li><a href='/about'>About</a></li>
               <li><a href='/contact'>Contact</a></li>
