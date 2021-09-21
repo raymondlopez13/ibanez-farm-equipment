@@ -12,9 +12,9 @@ function App() {
           <Nav />
         </header>
         <Switch>
-          <Route exact path='/' component={Home} />
-          <Route exact path='/johndeere' component={Products} />
-          <Route exact path='/CAT' component={Products} />
+          <Route exact path='/ibanez-farm-equipment' component={Home} />
+          <Route exact path='/ibanez-farm-equipment/johndeere' component={Products} />
+          <Route exact path='/ibanez-farm-equipment/CAT' component={Products} />
         </Switch>
         <Footer />
       </Router> 
