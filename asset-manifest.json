@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ibanez-farm-equipment/static/css/main.f8963584.chunk.css",
+    "main.js": "/ibanez-farm-equipment/static/js/main.626e7c3a.chunk.js",
+    "main.js.map": "/ibanez-farm-equipment/static/js/main.626e7c3a.chunk.js.map",
+    "runtime-main.js": "/ibanez-farm-equipment/static/js/runtime-main.eef19867.js",
+    "runtime-main.js.map": "/ibanez-farm-equipment/static/js/runtime-main.eef19867.js.map",
+    "static/js/2.4cc55168.chunk.js": "/ibanez-farm-equipment/static/js/2.4cc55168.chunk.js",
+    "static/js/2.4cc55168.chunk.js.map": "/ibanez-farm-equipment/static/js/2.4cc55168.chunk.js.map",
+    "static/js/3.e7177fb8.chunk.js": "/ibanez-farm-equipment/static/js/3.e7177fb8.chunk.js",
+    "static/js/3.e7177fb8.chunk.js.map": "/ibanez-farm-equipment/static/js/3.e7177fb8.chunk.js.map",
+    "index.html": "/ibanez-farm-equipment/index.html",
+    "static/css/main.f8963584.chunk.css.map": "/ibanez-farm-equipment/static/css/main.f8963584.chunk.css.map",
+    "static/js/2.4cc55168.chunk.js.LICENSE.txt": "/ibanez-farm-equipment/static/js/2.4cc55168.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eef19867.js",
+    "static/js/2.4cc55168.chunk.js",
+    "static/css/main.f8963584.chunk.css",
+    "static/js/main.626e7c3a.chunk.js"
+  ]
+}
